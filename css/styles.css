@@ -73,7 +73,7 @@
 
 @media (max-width: 1028px) {
 
-    #title {
+    #title .main-heading {
         text-align: center;
     }
 
